@@ -1,4 +1,4 @@
-# LLM Engineering Assessment Setup
+# LLM Assessment Setup
 
 Please ensure you have:
 1. Python 3.9+ installed
